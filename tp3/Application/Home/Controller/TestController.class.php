@@ -15,4 +15,7 @@ class TestController extends Controller {
 		$this->display('User/test');
     }
 	
+	public function test1(){
+		
+    }
 }
